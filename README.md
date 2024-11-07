@@ -16,19 +16,35 @@ Projemde kullandığım katmanlar; 📌 Business Layer 📌 Presentation Layer �
 Proje kapsamında kullanılan teknolojiler.
 
 📌 ASP.NET Core 8.0
+
 📌 Microsoft.Entity.FrameworkCore (8.0.3)
+
 📌 Microsoft.Entity.FrameworkCore.Desing (8.0.3)
+
 📌 Microsoft.Entity.FrameworkCore.SqlServer (8.0.3)
+
 📌 Microsoft.Entity.FrameworkCore.Tools (8.0.3)
+
 📌 Entity Framework Core
+
 📌 Ajax
+
 📌 Restful API
+
 📌 Fluent Validation
+
 📌 Asp.Net Core Identity & Rolleme
+
 📌 N Tier Architecture
+
 📌 Repository Design Pattern
+
 📌 Authentication & Authorization
+
 📌 Code First / MSSQL
+
 📌 Swagger & Postman
+
 📌 Code First
+
 📌 Linq Sorguları
