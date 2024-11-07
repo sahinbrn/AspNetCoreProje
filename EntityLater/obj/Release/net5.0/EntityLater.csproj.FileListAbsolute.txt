@@ -1,0 +1,15 @@
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\bin\Release\net5.0\EntityLater.deps.json
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\bin\Release\net5.0\EntityLater.runtimeconfig.json
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\bin\Release\net5.0\EntityLater.runtimeconfig.dev.json
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\bin\Release\net5.0\EntityLater.dll
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\bin\Release\net5.0\EntityLater.pdb
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.AssemblyInfoInputs.cache
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.AssemblyInfo.cs
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.dll
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\refint\EntityLater.dll
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.pdb
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\EntityLater.genruntimeconfig.cache
+C:\Users\sahin\source\repos\Core_Proje\EntityLater\obj\Release\net5.0\ref\EntityLater.dll

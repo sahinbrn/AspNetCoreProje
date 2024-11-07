@@ -1,0 +1,21 @@
+﻿@model EntityLater.Concrete.Features
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("Index", "Feature", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.FeatureID)
+    <label><strong>Başlık</strong></label>
+    @Html.TextBoxFor(x => x.Header, new { @class = "form-control" })
+    <br />
+    <label><strong>Ad Soyad</strong></label>
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    <br />
+    <label><strong>Pozisyon</strong></label>
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Güncelle</button>
+}
+
