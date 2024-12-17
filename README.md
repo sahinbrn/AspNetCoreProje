@@ -23,9 +23,3 @@ Dosyadan Resim Yükleme 📸
 Admin ve Yazar Paneli için Ayrı Roller 👑
 Silme İşlemlerini Alert ile Gerçekleştirme ❌
 ViewComponent ve Partial Kullanımı 🧩
-
-📌 Swagger & Postman
-
-📌 Code First
-
-📌 Linq Sorguları
